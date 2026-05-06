@@ -18,6 +18,12 @@ a {
 .member2 {
   background-color: #a28efd;
 }
+.member3 {
+  background-color: #f7ff87;
+}
+.member4 {
+  background-color: #aaffaa;
+}
 /* 전체 레이아웃 */
 section {
   width: 390px;
@@ -79,6 +85,14 @@ section {
 .member2 .btn-view {
   background: linear-gradient(45deg, #b5b6ff, #4433a5);
   box-shadow: 3px 3px 8px rgba(124, 95, 255, 0.3);
+}
+.member3 .btn-view {
+  background: linear-gradient(45deg, #fff38c, #dbd81d);
+  box-shadow: 3px 3px 8px rgba(247, 243, 27, 0.3);
+}
+.member4 .btn-view {
+  background: linear-gradient(45deg, #94ffa6, #43db1d);
+  box-shadow: 3px 3px 8px rgba(26, 219, 74, 0.3);
 }
 /* 연락처 영역 */
 .link-contact {
