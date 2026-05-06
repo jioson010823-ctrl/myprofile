@@ -29,7 +29,7 @@ a {
 section {
   width: 390px;
   margin: auto;
-  padding: 30px;
+  padding: 20px;
   background-color: #fff;
 }
 /* 메뉴 */
@@ -46,7 +46,7 @@ section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px 0;
+  padding: 15px 0;
   text-align: center;
   gap: 15px;
 }
@@ -100,7 +100,7 @@ section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 30px;
+  padding: 15px;
 }
 .contact li {
   display: flex;
@@ -131,9 +131,10 @@ section {
 .introduce {
   font-size: 20px;
   font-family: "Dongle", sans-serif;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
   text-align: center;
   color: #949494;
+  line-height: 1.1;
 }
 /* 멤버별 프로필 링크 */
 .others {
